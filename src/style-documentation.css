@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+main {
+    font-family: 'Source Code Pro', monospace;
+}
+
+#documentation-title {
+    margin-left: 1rem;
+    color:rgb(49, 49, 49);
+}
+
+.subheadings {
+    margin-left: 1rem;
+    color:rgb(49, 49, 49);
+}
+
+hr {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: #f1f1f1;
+    border: none;
+    height: 1px;
+}
+
+#table-of-contents {
+    padding: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    list-style-type: none;
+    background-color: #F6F8FA;
+}
+
+#table-of-contents li {
+    margin-bottom: .5rem;
+}
+
+#table-of-contents li a {
+    color: rgb(0, 111, 175);
+    text-decoration: none;
+}
+
+.spacer1 {
+    margin-left: 2rem;
+}
+
+.subheading-para {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-family: monospace;
+    font-size: 12pt;
+    color:rgb(90, 90, 90);
+}
+
+summary {
+    color:rgb(90, 90, 90);
+}
+
+main img, h3, .flat-icon, .reference-container, details{
+    margin-left: 1rem;
+}
+
+.reference-container {
+    margin-top: 1rem;
+    margin-right: 1rem;
+    padding: .25rem;
+    height: auto;
+    font-size: 12pt;
+    color:rgb(90, 90, 90);
+    background-color: #F6F8FA;
+}
+
+.reference-container li a {
+    text-decoration: none;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 12pt;
+    color: rgb(201, 128, 32);
+}
+
+.addSpaceTop {
+    margin-top: 1rem;
+}
