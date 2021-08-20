@@ -53,15 +53,5 @@ Icons made by Freepik from www.flaticon.com
 Icons made by Freepik from www.flaticon.com
 -Top 3 Chain Icon:top 3 icon
 Icons made by Freepik from www.flaticon.com
-All Lyrics:
-
-AZlyrics.com (Drip Too Hard) by LilBaby
-AZlyrics.com (Wants and Needs) by Drake
-AZlyrics.com (Pauwi Nako) by Flow G
-AZlyrics.com (What You Know Bout Love) by Pop Smoke
-AZlyrics.com (Go Crazy) by Chris Brown
-AZlyrics.com (Toxic) by Kehlani
-AZlyrics.com (Don't) by Bryson Tiller
-AZlyrics.com (How To Love) by Luh Kel
-AZlyrics.com (Slow Motion) by Trey Songz
+All Lyrics from AZlyrics.com
 ```
