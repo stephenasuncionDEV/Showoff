@@ -1,57 +1,25 @@
-<p align="center">
-  <img src="https://i.postimg.cc/HkKKYyjV/Screenshot-1.png" alt="Showoff Logo">
-</p>
+# Showoff 🎉️
 
-# Showoff
-Showoff is a simple social media made with php to share song lyrics around the world.
+[![Discord](https://img.shields.io/badge/Author%20By-Typedef%202604-green?label=DISCORD&labelColor=black&logo=Discord&logoColor=FFFFFF&color=DE332B&style=for-the-badge)](https://discord.com/users/746865227471257702) [![Followers](https://img.shields.io/github/followers/stephenasuncionDEV?color=DE332B&labelColor=black&style=for-the-badge)](https://github.com/stephenasuncionDEV/) [![Paypal](https://img.shields.io/badge/Paypal-Thanks-orange?color=DE332B&label=Paypal&labelColor=black&style=for-the-badge)](https://paypal.me/StebXadmin?country.x=CA&locale.x=en_US)
 
-## Overview
-### Register
-Once you go to the website (index.php) you cannot access it if you're not logged in, so you have to register. You will be redirected to the login page if you're not logged in. To register simply click "register" somewhere below the login button. This uses client-size and server-side validation and sanitizer
-```
-Requirements: Email must be valid, Username's minimum length is 2 and no special characters. Password's minimum length is 5
-```
+![Showoff](https://cdn.upload.systems/uploads/AppwscTk.png)
 
-### Login
-Similarly to register, you cannot access index.php if you're not logged in, to login you must register first. To login you can go to this link Login Page. This uses client-side and server-side validation.
-```
-Requirements: Username must exist in the database, and Password must match the password in the database
-```
 
-### Navigation
-This website's navigation is simple as it only has two pages, home page and documentation page.
+## Information 📜
 
-### Profile Section
-Profile section is where you can see your own profile. This is where you can see your Name, Usernaame, Email, and UserID (from the database). But not only that, you can also see the logout button where you can log off.
+A simple social media made with php to share song lyrics around the world.
 
-We can also see the animation here made with @keyframes, you can click the arrow up button to hide the profile container and you can click it back to unhide.
-You can also click the your name and your profile would show like below.
+Stack: PHP, Vanilla Javascript, HTML, CSS
 
-### Post Section
-Post section is where you can post your own song.
-```
-Requirements: Title must have between 2 and 30 characters, Content must have between 5 and 255 characters.
-```
+## Screenshot 📸
 
-### Top Artist Section
-Top Artist Section is where you can see top posters based on one of their post's likes. I used a masonry layout for this using flexbox and it was inspired by assignment 4 where we used masonry layout to display random pictures.
-You can also click on their name and their profile would show below your profile section.
+Login - https://discordmod.club/EXpfURS6<br />
+Register - https://discordmod.club/0k1HMvAN <br />
+Home - https://discordmod.club/q3339ET4 <br />
+Footer - https://discordmod.club/iclgXoqC <br />
+Profile - https://discordmod.club/Ejb08gvH <br />
+Documentation - https://discordmod.club/c5AsCL8s <br />
 
-### References
-```
-Flexbox layout was inspired from Kevin Powell's youtube channel.
+## License 🚀️
 
--Validate email (server-side) w3schools
-
--Logo Icon:Showoff Logo
-Icons made by Eucalyp from www.flaticon.com
--User Icon:user icon
-Icons made by Freepik from www.flaticon.com
--Top 1 Crown Icon:top 1 icon
-Icons made by Freepik from www.flaticon.com
--Top 2 Crown Icon:top 2 icon
-Icons made by Freepik from www.flaticon.com
--Top 3 Chain Icon:top 3 icon
-Icons made by Freepik from www.flaticon.com
-All Lyrics from AZlyrics.com
-```
+This project is stricly for educational purposes only. It is not affiliated with other companies, in any way.
